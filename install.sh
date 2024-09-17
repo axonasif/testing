@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 cd /tmp
-git clone https://github.com/orgxon/testing-2
+GIT_TRACE=1 git clone https://github.com/orgxon/testing-2
